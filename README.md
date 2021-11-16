@@ -6,7 +6,7 @@ More changes
 
 ## Purpose
 
-Deloyment
+Deloyments 
 hellos
 
 dont do this
