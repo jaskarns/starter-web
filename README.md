@@ -5,7 +5,7 @@ This repository is for showing how Git and GitHub work
 ## Purpose
 
 Deloyment
-hello
+hellos
 
 dont do this
 
